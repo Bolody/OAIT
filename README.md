@@ -1,2 +1,2 @@
-# OAIT
-lab oait mephi 6 sem
+# OAVI
+lab oavi mephi 6 sem
